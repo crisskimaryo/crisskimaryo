@@ -1,16 +1,39 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Christopher+Kimaryo;I'm+a+Software+Engineering+Student;Exploring+the+world+through+code+and+travel!)](https://git.io/typing-svg)
 
-<!--
-**crisskimaryo/crisskimaryo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">"Talk is cheap. Show me the code"</h3>
+<h4 align="center">- Linus Torvalds -</h4>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center" style="margin-bottom:200px">
+ <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=jacquelineatae&theme=radical&show_icons=true" />
+ <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacquelineatae&layout=compact&theme=radical" />
+</div>
+
+
+<br>
+
+## Language and Tools
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+#### Main Stack:
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nodejs"/>](https://nodejs.org/en)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=react"/>](https://react.dev/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=flutter"/>](https://flutter.dev/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=rust"/>](https://www.rust-lang.org/)
+
+#### Studying in this moment:
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=sass"/>](https://sass-lang.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=nestjs"/>](https://nestjs.com/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=postgres"/>](https://www.postgresql.org/)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=arangodb"/>](https://www.arangodb.com/)
+
+#### Tools:
+
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com
